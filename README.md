@@ -80,39 +80,7 @@ vehicle_health_monitor/
 
 ---
 
-## 🚀 How to Run the Project
 
-1. Clone the repository
-
-```
-git clone https://github.com/your-username/AI-Vehicle-Health-Monitoring-IoT.git
-```
-
-2. Navigate to the project folder
-
-```
-cd AI-Vehicle-Health-Monitoring-IoT
-```
-
-3. Install required libraries
-
-```
-pip install -r requirements.txt
-```
-
-4. Run the application
-
-```
-python app.py
-```
-
-5. Open in browser
-
-```
-http://127.0.0.1:5000
-```
-
----
 
 ## 📷 Dashboard
 
